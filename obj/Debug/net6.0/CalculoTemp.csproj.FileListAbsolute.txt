@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\bin\Debug\net6.0\CalculoTemp.exe
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\bin\Debug\net6.0\CalculoTemp.deps.json
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\bin\Debug\net6.0\CalculoTemp.runtimeconfig.json
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\bin\Debug\net6.0\CalculoTemp.dll
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\bin\Debug\net6.0\CalculoTemp.pdb
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.AssemblyInfo.cs
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.dll
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\refint\CalculoTemp.dll
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.pdb
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\CalculoTemp.genruntimeconfig.cache
+\\Mac\Home\Documents\Dev\Projetos\CalculoTemp\CalculoTemp\obj\Debug\net6.0\ref\CalculoTemp.dll
